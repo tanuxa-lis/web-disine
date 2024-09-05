@@ -1,5 +1,5 @@
 html {
-	background-color: #678342;
+	background-color: #090999;
 	padding-top: 30pt;
 	padding: 40px;
 	background: -webkit-linear-gradient(#FFFF00, #FF8C00);
@@ -12,7 +12,7 @@ body{
 	border-radius: 10px;
 	box-shadow: 0 0 40pt rgba(0,0,0,0.9);
 	background-color: #F0E68C;
-	background-image: url(./images/gora.avif);
+	background-image: url(./images/green.jfif);
 }
 p{
   font-family: "Sevillana", cursive;
