@@ -26,9 +26,14 @@ p{
 h1, h2 {
 	color: #800080;
 }
+h1{
+	font-size:100px;
+	text-align:center;
+	margin-bottom:100px;
+}
 h2{
 	border-bottom: 2px white solid;
-	background: url(./images/head-icon.png) no-repeat 10px 10px;
+	background: url(./images/head-icon.png) no-repeat 10px 2px;
 	padding: 0 0 2px 60px;
 	margin 0;
 }
