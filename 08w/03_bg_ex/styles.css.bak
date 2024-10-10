@@ -107,10 +107,9 @@ html{
 .wrapper{
 	background-color: #FFF;
 	background-image: url(images/sugr.avif);
-	background-size: 960px 271px;
+	background-size: 960px -971px;
 	background-position: left -150px;
 	background-repeat: repeat-x;
-	
 }
 .banner{
 	margin-top: 48px;
